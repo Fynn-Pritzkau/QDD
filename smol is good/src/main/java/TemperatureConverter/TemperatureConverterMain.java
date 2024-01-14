@@ -11,6 +11,8 @@ public class TemperatureConverterMain
         new TemperatureConverterMain();
     }
 
+    private int paul = 1;
+
     Scanner scanner = new Scanner(System.in);
 
     public TemperatureConverterMain()
